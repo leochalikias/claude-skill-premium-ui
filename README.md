@@ -1,5 +1,4 @@
-# premium-app-ui — Claude Skill
-
+Claude Skill For Premium UI
 A Claude skill that permanently eliminates vibe-coded UI from all AI-generated interfaces.
 
 When installed, this skill instructs Claude to produce **premium, production-grade UI** that feels like it was designed by a senior product designer — every time, without being asked.
